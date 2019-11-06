@@ -1,5 +1,5 @@
 {
-  "name": "oracle.pink.blockchain",
+  "name": "pink.rng-oracle",
   "version": "0.0.0",
   "private": true,
   "scripts": {
